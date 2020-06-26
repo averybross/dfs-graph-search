@@ -1,2 +1,2 @@
 # dfs-graph-search
-An implementation of BFS Graph Search in modern node
+An implementation of BFS Graph Search in node
